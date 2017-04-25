@@ -5,3 +5,5 @@ function hi() {
 }
 
 hi();
+hi();
+hi();
